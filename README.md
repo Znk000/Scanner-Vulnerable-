@@ -1,1 +1,2 @@
-print("Hello Word")
+Script Basic
+God Bay:)
